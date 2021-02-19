@@ -5,23 +5,23 @@
 
 Bounties
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/bounties-01.svg" width="100">
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/bounties-01.svg" width="80">
 
 Grants
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-01.svg" width="100">
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-01.svg" width="80">
 
 Hackathons
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-01.svg" width="100">
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-01.svg" width="80">
 
 Quests
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/quests-01.svg" width="100">
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/quests-01.svg" width="80">
 
 Kudos 
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-01.svg" width="100">
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-01.svg" width="80">
 
 
 
