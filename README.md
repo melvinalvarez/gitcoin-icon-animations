@@ -21,7 +21,7 @@ Quests
 
 Kudos 
 
-![Gitcoin Kudos](svg-anims/kudos-01.svg)
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-01.svg" width="100">
 
 
 
