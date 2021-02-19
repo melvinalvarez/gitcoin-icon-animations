@@ -4,16 +4,16 @@
 ---
 
 Bounties
-![Gitcoin Bounties](svg-anims/bounties-01.svg)
-
-Hackathons
-![Gitcoin Hackathons](svg-anims/hackathons-01.svg)
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/bounties-01.svg" width="100">
 
 Grants
-![Gitcoin Grants](svg-anims/grants-01.svg)
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-01.svg" width="100">
+
+Hackathons
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-01.svg" width="100">
 
 Quests
-![Gitcoin Quests](svg-anims/quests-01.svg)
+<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/quests-01.svg" width="100">
 
 
 
