@@ -10,11 +10,9 @@ Bounties
 Grants
 
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-01.svg" width="80">
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-02.svg" width="80">
 
 Hackathons
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-01.svg" width="80">
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-02.svg" width="80">
 
 Quests
@@ -23,7 +21,6 @@ Quests
 
 Kudos 
 
-<img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-01.svg" width="80">
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-02.svg" width="80">
 
 
