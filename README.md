@@ -19,10 +19,11 @@ Quests
 
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/quests-01.svg" width="80">
 
+![Quests 02](svg-anims/quests-02.svg)
+
 Kudos 
 
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/kudos-02.svg" width="80">
-
 
 
 
