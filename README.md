@@ -11,6 +11,8 @@ Grants
 
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/grants-01.svg" width="80">
 
+![Grants-03](svg-anims/grants-03.svg)
+
 Hackathons
 
 <img src="https://github.com/melvinalvarez/gitcoin-icon-animations/raw/main/svg-anims/hackathons-02.svg" width="80">
